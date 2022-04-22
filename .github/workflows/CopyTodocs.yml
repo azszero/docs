@@ -43,5 +43,4 @@ jobs:
           destination-github-username: 'azszero'
           destination-repository-name: 'www'
           destination_folder: 'src/docs'
-          user-email: xbaha@hotmail.com
-          target-branch: master
+
