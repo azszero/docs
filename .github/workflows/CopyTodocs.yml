@@ -21,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: /www/src/docs@main
+      - uses: azszero/www/src/docs@main
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
@@ -35,7 +35,7 @@ jobs:
 
 
       - name: Pushes to another repository
-        uses: /docs@main
+        uses: azszero/docs@main
         env:
           API_TOKEN_GITHUB: ${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}
         with:
