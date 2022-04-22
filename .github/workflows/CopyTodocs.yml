@@ -34,13 +34,4 @@ jobs:
           echo test, and deploy your project.
 
 
-      - name: Pushes to another repository
-        uses: azszero/docs@main
-        env:
-          API_TOKEN_GITHUB: ${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}
-        with:
-          source-directory: '.'
-          destination-github-username: 'azszero'
-          destination-repository-name: 'www'
-          destination_folder: 'src/docs'
 
