@@ -10,12 +10,15 @@
 
 ## folder2
 
-* [Page 4](folder2/page-4.md)
-* [Page 3](folder2/page-3.md)
-* [Page 5](folder2/page-5.md)
-
 ## Copy of folder2
 
 * [Page 4](copy-of-folder2/page-4/README.md)
   * [Page 3](copy-of-folder2/page-4/page-3/README.md)
     * [Page 5](copy-of-folder2/page-4/page-3/page-5.md)
+
+## src
+
+* [docs](src/docs/README.md)
+  * [Introduction](src/docs/introduction.md)
+  * [Amazon Product Page Builder](src/docs/amazon-product-page-builder/README.md)
+    * [Page 3](src/docs/amazon-product-page-builder/page-3.md)
