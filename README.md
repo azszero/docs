@@ -5,7 +5,7 @@ title: What is azszero
 description: Introduction about Amazon Sellers Zero
 ---
 
-# What is azszero xxx
+# What is azszero xxxxx
 
 As an Amazon Seller, there are tasks that you need to do daily, like checking your product sales, inventory, feedback, etc... so that you can plan what to do next.
 
